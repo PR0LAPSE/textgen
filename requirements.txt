@@ -19,3 +19,4 @@ peft==0.4.0
 transformers==4.28.1
 bitsandbytes==0.38.1
 llama-cpp-python==0.1.41
+xformers
